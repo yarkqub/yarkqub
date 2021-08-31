@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJS, CSS and JavaScript for frontend
 - 🦸‍♂️ I’m good in PHP & JavaScript
 - 💞️ I’m looking to collaborate on any game engine / web dev
-- 📫 How to reach me t.me/muhdyarkqub
+- 📫 How to reach me [@Telegram](t.me/muhdyarkqub "@muhdyarkqub")
 
 <!---
 yarkqub/yarkqub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
